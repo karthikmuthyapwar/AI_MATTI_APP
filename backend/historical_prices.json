@@ -1,0 +1,58 @@
+{
+    "default": [
+        {"year": "2019", "price": 1800},
+        {"year": "2020", "price": 1950},
+        {"year": "2021", "price": 1850},
+        {"year": "2022", "price": 2100},
+        {"year": "2023", "price": 2300},
+        {"year": "2024", "price": 2450}
+    ],
+    "rice": [
+        {"year": "2019", "price": 1815},
+        {"year": "2020", "price": 1868},
+        {"year": "2021", "price": 1940},
+        {"year": "2022", "price": 2040},
+        {"year": "2023", "price": 2183},
+        {"year": "2024", "price": 2300}
+    ],
+    "maize": [
+        {"year": "2019", "price": 1760},
+        {"year": "2020", "price": 1850},
+        {"year": "2021", "price": 1870},
+        {"year": "2022", "price": 1962},
+        {"year": "2023", "price": 2090},
+        {"year": "2024", "price": 2225}
+    ],
+    "chickpea": [
+        {"year": "2019", "price": 4620},
+        {"year": "2020", "price": 4875},
+        {"year": "2021", "price": 5100},
+        {"year": "2022", "price": 5230},
+        {"year": "2023", "price": 5335},
+        {"year": "2024", "price": 5440}
+    ],
+    "cotton": [
+        {"year": "2019", "price": 5550},
+        {"year": "2020", "price": 5825},
+        {"year": "2021", "price": 6025},
+        {"year": "2022", "price": 6380},
+        {"year": "2023", "price": 6620},
+        {"year": "2024", "price": 7020}
+    ],
+    "jute": [
+        {"year": "2019", "price": 3950},
+        {"year": "2020", "price": 4225},
+        {"year": "2021", "price": 4500},
+        {"year": "2022", "price": 4750},
+        {"year": "2023", "price": 5050},
+        {"year": "2024", "price": 5335}
+    ],
+    "coffee": [
+        {"year": "2019", "price": 15000},
+        {"year": "2020", "price": 15800},
+        {"year": "2021", "price": 16500},
+        {"year": "2022", "price": 18200},
+        {"year": "2023", "price": 19500},
+        {"year": "2024", "price": 21000}
+    ]
+}

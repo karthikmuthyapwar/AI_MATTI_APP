@@ -1,0 +1,8 @@
+fastapi[all]
+uvicorn
+scikit-learn
+pandas
+numpy
+pytesseract
+opencv-python
+python-multipart
